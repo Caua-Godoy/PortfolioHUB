@@ -7,6 +7,7 @@ bash
 Copiar
 Editar
 PortfolioHUB/
+
 ├── Academico/         # Documentos e projetos
 ├── README.md          # Este arquivo com as informações do projeto
 Academico/: Inclui arquivos como certificados, diplomas, históricos, entre outros.
