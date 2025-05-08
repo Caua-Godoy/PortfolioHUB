@@ -1,16 +1,27 @@
 # PortfolioHUB
-PortfolioHUB
-O PortfolioHUB é um projeto desenvolvido por Caua-Godoy com o objetivo de centralizar e organizar informações acadêmicas e profissionais em um único local. Este repositório serve como uma base para a construção de um portfólio pessoal, facilitando a apresentação de experiências, projetos e conquistas.
+📌 Sobre o Projeto
+O PortfolioHUB é um repositório criado com o objetivo de ser um hub pessoal de portfólio, onde o usuário pode documentar sua trajetória acadêmica, certificados, projetos e conquistas profissionais. Ideal para estudantes, desenvolvedores ou qualquer pessoa que deseje manter seu progresso bem estruturado e acessível.
 
-Estrutura do Projeto
-Atualmente, o repositório contém a seguinte estrutura de diretórios e arquivos:
+🗂️ Estrutura do Repositório
+bash
+Copiar
+Editar
+PortfolioHUB/
+├── Academico/         # Documentos e projetos
+├── README.md          # Este arquivo com as informações do projeto
+Academico/: Inclui arquivos como certificados, diplomas, históricos, entre outros.
 
-Academico/: Diretório destinado a armazenar informações relacionadas à projetos e suas documentações.
+README.md: Guia e apresentação do projeto.
 
-README.md: Arquivo de documentação que fornece uma visão geral do projeto.
+🚀 Tecnologias Utilizadas
+Embora o foco principal seja a organização de arquivos, o projeto está estruturado para expansão e pode facilmente incorporar:
 
-Tecnologias Utilizadas
-O projeto é desenvolvido utilizando a linguagem de programação Python.
+📄 Markdown
 
-Licença
-Este projeto está licenciado sob a MIT License.
+🐍 Python (para automações futuras)
+
+🗃️ Estrutura de pastas clara e modular
+
+📄 Licença
+Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+
