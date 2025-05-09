@@ -19,7 +19,7 @@ Embora o foco principal seja a organização de arquivos, o projeto está estrut
 
 📄 Markdown
 
-🐍 Python (para automações futuras)
+🐍 Python 
 
 🗃️ Estrutura de pastas clara e modular
 
